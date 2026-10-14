@@ -1,6 +1,6 @@
 {
-  "requiredVersionCode": 2,
-  "requiredVersionName": "1.0.1",
+  "requiredVersionCode": 1,
+  "requiredVersionName": "1.0.0",
   "updateUrl": "https://apkpure.com/p/com.yomirulabs.yomiru",
   "message": "A newer version of Yomiru is required to continue. Please update to continue reading."
 }
